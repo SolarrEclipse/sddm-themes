@@ -211,7 +211,7 @@ Item {
                         }
 
                         Image {
-                            source: "./assets/Reboot.svg"
+                            source: "assets/Reboot.svg"
                             anchors {
                                 fill: parent
                                 leftMargin: 10
@@ -250,7 +250,7 @@ Item {
                         }
 
                         Image {
-                            source: "./assets/Shutdown.svg"
+                            source: "assets/Shutdown.svg"
                             anchors {
                                 fill: parent
                                 leftMargin: 10
